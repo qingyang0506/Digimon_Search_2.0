@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Digimon_Search_2.0/static/css/main.7cf4da4e.css",
+    "main.js": "/Digimon_Search_2.0/static/js/main.be4340bc.js",
+    "service-worker.js": "/Digimon_Search_2.0/service-worker.js",
+    "index.html": "/Digimon_Search_2.0/index.html",
+    "main.7cf4da4e.css.map": "/Digimon_Search_2.0/static/css/main.7cf4da4e.css.map",
+    "main.be4340bc.js.map": "/Digimon_Search_2.0/static/js/main.be4340bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf4da4e.css",
+    "static/js/main.be4340bc.js"
+  ]
+}
