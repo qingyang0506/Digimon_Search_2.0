@@ -6,7 +6,7 @@ This is a React Typescript project with a REST API that allows you to search for
 
 ## How to run
 
-You can view this project by clicking [here](). or you can download the project ,direct to the folder and run by below commands
+You can view this project by clicking [here](https://qingyang0506.github.io/Digimon_Search_2.0/). or you can download the project ,direct to the folder and run by below commands
 
 ```
 1. npm install
